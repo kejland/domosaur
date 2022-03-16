@@ -29,7 +29,7 @@ dinoImg.style.width = "324px";
 //event listener: 1
 
 paraColour.addEventListener("click", function(){
-    paraColour.style.backgroundColor = "orange";
+    paraColour.style.color = "orange";
 })
 
 //========================================================================
